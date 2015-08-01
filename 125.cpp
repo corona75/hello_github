@@ -17,5 +17,6 @@ int main()
 	printf("키 입력 : ");
 	scanf("%d",&student2.height);
 	printf("이름 : %s, 나이 : %d, 키 : %d",student2.name,student2.age,student2.height);
+	printf("github commit!!\n");
 	return 0;
 }
